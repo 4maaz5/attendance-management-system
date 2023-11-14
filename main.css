@@ -1,0 +1,97 @@
+body{
+	background-image: url("/INTERNSHIP TASK/img/1.jpg");
+	background-repeat: no-repeat;  
+}
+#namee{
+     text-transform: uppercase;
+     width: 1500px;
+     background-color: white;
+     border-radius: 10px;
+     opacity: 80%;
+	   height: 70px;
+     margin-left: -100px;
+     font-family: sans-serif;
+     padding: 10px;
+}
+.top #name{
+     margin-left: 100px;
+}
+#name a{
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    margin-left: 530px;
+    margin-top: 0px;
+    border: solid 1px;
+    padding: 2px;
+    font-size: 20px;
+}
+.namee{
+    background-color: white;
+}
+ #admin a:hover{
+    background-color: aquamarine;
+    color: white;
+}
+.primarybg{
+    background: rgba(141,194,111,1);
+  }
+  .primarybg:hover{
+    background-color: green;
+  }
+  
+  .form-box{
+    background: #fff;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.2),0 5px 5px 0 rgba(0,0,0,0.24);
+  }
+  a button{
+    margin-top: 30px;
+  }
+  .form{
+    width:700px;
+    height: 600px;
+    background-color: darkgrey;
+    opacity: 90%;
+    margin-left: 260px;
+    border: solid 2px;
+  }
+  #input{
+    width: 300px;
+    margin-left: 30px;
+  }
+  #input1{
+    width: 300px;
+    margin-left: 360px;
+    margin-top: -38px;
+  }
+  #input2{
+    width: 300px;
+    margin-left: 30px;
+  }
+  #input3{
+    width: 300px;
+    margin-left: 360px;
+    margin-top: -38px;
+  }
+  #input4{
+    width:630px;
+    margin-left: 30px;
+  }
+  h4{
+    margin-left: 30px;
+  }
+  #input5{
+    width:630px;
+    margin-left: 30px;
+    border-radius: 10px;
+  }
+  #input6{
+    width:630px;
+    margin-left: 30px;
+  }
+  #submit{
+    width: 200px;
+    margin-left: 250px;
+  }
+ 
+ 
